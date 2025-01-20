@@ -8,7 +8,7 @@ I've been learning to code for 6 months, after I recently completed university. 
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [samuelnjathi85@gmail.com](mailto:samuelnjathi85@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on interesting Javascript projects
 
 ### Skills
